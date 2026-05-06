@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchainhub
+langchain-nomic
+langgraph
+chromadb
+tiktoken
+tavily-python
+gpt4all
